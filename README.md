@@ -4,4 +4,5 @@
 
 *Homework hack!*
 
-### Developed by Akram Karoune
+## Developed by Akram Karoune
+### And [Dr Emma Karoune](https://www.turing.ac.uk/people/research-associates/emma-karoune)

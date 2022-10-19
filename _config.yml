@@ -1,12 +1,14 @@
-# Site Settings
 remote_theme: chrisrhymes/bulma-clean-theme
 
+# Site Settings
+
+
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: Maths Auto Calculation AI
+tagline: 
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  The demo site for maths auto calculation AI
 baseurl: "/bulma-clean-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty

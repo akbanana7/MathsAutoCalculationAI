@@ -9,8 +9,8 @@ tagline:
 email: your-email@domain.com
 description: >
   The demo site for maths auto calculation AI
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+baseurl: "/MathsAutoCalculationAI"
+url: "https://akbanana7.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
